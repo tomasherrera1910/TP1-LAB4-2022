@@ -1,0 +1,38 @@
+p {
+  color: darkslategray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button,
+input {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input {
+  width: 24rem;
+  height: 1.5rem;
+  padding: 4px 8px;
+}
+
+button {
+  margin: 2rem 0;
+  width: 25rem;
+  height: 2.5rem;
+  border: none;
+  border-right: solid 2px darkgray;
+  border-bottom: solid 2px darkgray;
+  cursor: pointer;
+}
+
+label {
+  display: block;
+  margin-bottom: 16px;
+}
+
+a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+  color: blueviolet;
+}
